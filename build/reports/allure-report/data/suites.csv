@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"broken","Wed May 19 20:31:34 MSK 2021","Wed May 19 20:31:34 MSK 2021","3","","tests.SystemPropertiesTest","","tests.SystemPropertiesTest","","SystemPropertiesTest",""
-"passed","Mon May 17 22:48:47 MSK 2021","Mon May 17 22:48:57 MSK 2021","9689","","WebDriverTest","","WebDriverTest","testWebDriver","testWebDriver()",""
-"passed","Mon May 17 22:24:10 MSK 2021","Mon May 17 22:24:10 MSK 2021","317","","SystemPropertiesTest","","SystemPropertiesTest","testSystemProperties","testSystemProperties()",""
-"broken","Wed May 19 20:24:36 MSK 2021","Wed May 19 20:24:36 MSK 2021","2","","SystemPropertiesTest","","SystemPropertiesTest","","SystemPropertiesTest",""
