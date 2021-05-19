@@ -1,0 +1,55 @@
+{
+  "uid" : "fac54eab0082294c",
+  "name" : "testWebDriver()",
+  "fullName" : "WebDriverTest.testWebDriver",
+  "historyId" : "7b7425112cd4d0b8a2a05b98026d23ec",
+  "time" : {
+    "start" : 1621280166862,
+    "stop" : 1621280176871,
+    "duration" : 10009
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Leofesk-Air-13"
+  }, {
+    "name" : "thread",
+    "value" : "32464@Leofesk-Air-13.Test worker(13)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "WebDriverTest"
+  }, {
+    "name" : "testClass",
+    "value" : "WebDriverTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testWebDriver"
+  }, {
+    "name" : "suite",
+    "value" : "WebDriverTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fac54eab0082294c.json",
+  "parameterValues" : [ ]
+}

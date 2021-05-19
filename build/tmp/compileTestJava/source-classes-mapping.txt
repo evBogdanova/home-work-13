@@ -1,6 +1,8 @@
 config/WebDriverConfig.java
  config.WebDriverConfig
-SystemPropertiesTest.java
- SystemPropertiesTest
-WebDriverTest.java
- WebDriverTest
+tests/SystemPropertiesTest.java
+ tests.SystemPropertiesTest
+helper/AttachmentHelper.java
+ helper.AttachmentHelper
+tests/TestBase.java
+ tests.TestBase
