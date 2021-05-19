@@ -6,7 +6,8 @@ import static org.aeonbits.owner.Config.LoadType.MERGE;
 
 @Config.LoadPolicy(MERGE)
 @Config.Sources({"system:properties",
-        "classpath:${environment}.properties"})
+        "classpath:${webdriver}.driver.properties",
+        "classpath:local.driver.properties"})
 public interface WebDriverConfig extends Config {
 
     @Key("webdriver.remote")
@@ -20,4 +21,5 @@ public interface WebDriverConfig extends Config {
 
     @Key("webdriver.browser.version")
     String getBrowserVersion();
+
 }

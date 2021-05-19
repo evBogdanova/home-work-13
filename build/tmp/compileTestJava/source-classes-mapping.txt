@@ -1,8 +1,8 @@
+helper/AttachmentHelper.java
+ helper.AttachmentHelper
 config/WebDriverConfig.java
  config.WebDriverConfig
 tests/SystemPropertiesTest.java
  tests.SystemPropertiesTest
-helper/AttachmentHelper.java
- helper.AttachmentHelper
 tests/TestBase.java
  tests.TestBase
